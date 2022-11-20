@@ -1,7 +1,12 @@
 ## Hey there, I'm Julian!<br>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-- I'm a student studying computer science
+<!-- 
+visitors badge:
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=lejuliennn&countColor=%237B1E7A" alt=""/>
+--> 
+
+I'm a student studying computer science
 
 ### Languages and Tools :
 <div>
