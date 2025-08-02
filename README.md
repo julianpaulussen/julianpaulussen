@@ -1,12 +1,11 @@
 ## Hey there, I'm Julian!<br>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-<!-- 
-visitors badge:
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=lejuliennn&countColor=%237B1E7A" alt=""/>
---> 
+<p align="left">
+  <img src="https://img.shields.io/badge/🎓_Student-brightgreen?style=flat-square&logo=education" alt="Student" />
+  <img src="https://img.shields.io/badge/📚_Learning-ongoing-blue?style=flat-square" alt="Learning" />
+</p>
 
-I'm a student studying computer science
+I'm a computer science master student :)
 
 ### Languages and Tools :
 <div>
